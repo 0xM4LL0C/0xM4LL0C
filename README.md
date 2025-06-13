@@ -3,7 +3,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C322%20hrs%2030%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-11-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-20-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-63.2%20thousand%20lines%20of%20code-blue)
 
@@ -81,5 +81,5 @@ Rust                     2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/0xM4LL0C/0xM4LL0C/main/assets/bar_graph.png)
 
 
- Last Updated on 13/06/2025 19:17:55 UTC
+ Last Updated on 13/06/2025 19:19:00 UTC
 <!--END_SECTION:waka-->
