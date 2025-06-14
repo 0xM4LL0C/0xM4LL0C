@@ -11,6 +11,8 @@
 
 > 📦 62.6 kB Used in GitHub's Storage 
  > 
+> 🏆 220 Contributions in the Year 2025
+ > 
 > 💼 Opted to Hire
  > 
 > 📜 38 Public Repositories 
@@ -81,5 +83,5 @@ Rust                     2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/0xM4LL0C/0xM4LL0C/main/assets/bar_graph.png)
 
 
- Last Updated on 14/06/2025 01:54:12 UTC
+ Last Updated on 14/06/2025 01:55:22 UTC
 <!--END_SECTION:waka-->
