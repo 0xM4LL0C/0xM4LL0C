@@ -11,6 +11,8 @@
 
 > 📦 63.3 kB Used in GitHub's Storage 
  > 
+> 🏆 388 Contributions in the Year 2025
+ > 
 > 💼 Opted to Hire
  > 
 > 📜 38 Public Repositories 
@@ -44,20 +46,16 @@ Sunday                   74 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Yerevan
 
 💬 Programming Languages: 
-Python                   16 mins             █████████████████████░░░░   83.11 % 
-TOML                     2 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.23 % 
-shell script             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.25 % 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.92 % 
-TSQL                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Zed                      20 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-discord-bot              20 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    20 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -77,5 +75,5 @@ HTML                     2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/0xM4LL0C/0xM4LL0C/main/assets/bar_graph.png)
 
 
- Last Updated on 08/08/2025 01:55:26 UTC
+ Last Updated on 09/08/2025 01:45:18 UTC
 <!--END_SECTION:waka-->
