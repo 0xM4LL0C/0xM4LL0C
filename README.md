@@ -46,20 +46,16 @@ Sunday                   90 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Yerevan
 
 💬 Programming Languages: 
-C                        28 mins             ███████████████████████░░   91.56 % 
-Objective-C              2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.90 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
-YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Zed                      30 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-yuji                     30 mins             █████████████████████████   98.32 % 
-Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.68 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    30 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -79,5 +75,5 @@ C                        3 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/0xM4LL0C/0xM4LL0C/main/assets/bar_graph.png)
 
 
- Last Updated on 08/09/2025 01:39:42 UTC
+ Last Updated on 09/09/2025 01:28:39 UTC
 <!--END_SECTION:waka-->
