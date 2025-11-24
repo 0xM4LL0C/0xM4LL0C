@@ -46,16 +46,18 @@ Sunday                   170 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Yerevan
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+CSS                      12 mins             ███████████████████░░░░░░   77.26 % 
+jsonc                    2 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.46 % 
+JSON                     1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   06.28 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Zed                      16 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Unknown Project          16 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    16 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -75,5 +77,5 @@ Vim Script               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/0xM4LL0C/0xM4LL0C/main/assets/bar_graph.png)
 
 
- Last Updated on 23/11/2025 01:53:55 UTC
+ Last Updated on 24/11/2025 01:48:32 UTC
 <!--END_SECTION:waka-->
