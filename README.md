@@ -46,20 +46,16 @@ Sunday                   155 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Yerevan
 
 💬 Programming Languages: 
-C                        1 hr 24 mins        ████████████████████████░   94.71 % 
-jsonc                    3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
-YAML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.31 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Zed                      1 hr 28 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-yuji                     1 hr 23 mins        ███████████████████████░░   93.81 % 
-Unknown Project          5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.19 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    1 hr 28 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -79,5 +75,5 @@ Vim Script               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/0xM4LL0C/0xM4LL0C/main/assets/bar_graph.png)
 
 
- Last Updated on 01/12/2025 02:00:22 UTC
+ Last Updated on 02/12/2025 01:45:05 UTC
 <!--END_SECTION:waka-->
