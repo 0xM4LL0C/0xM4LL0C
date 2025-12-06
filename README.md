@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C318%20hrs%2052%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C318%20hrs%2013%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -46,16 +46,20 @@ Sunday                   155 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Yerevan
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Makefile                 15 mins             ██████████░░░░░░░░░░░░░░░   38.70 % 
+C                        10 mins             ███████░░░░░░░░░░░░░░░░░░   27.30 % 
+JSON                     9 mins              ██████░░░░░░░░░░░░░░░░░░░   24.04 % 
+jsonc                    2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.55 % 
+YAML                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Zed                      39 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Unknown Project          39 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    39 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -75,5 +79,5 @@ Vim Script               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/0xM4LL0C/0xM4LL0C/main/assets/bar_graph.png)
 
 
- Last Updated on 05/12/2025 01:45:40 UTC
+ Last Updated on 06/12/2025 01:39:50 UTC
 <!--END_SECTION:waka-->
