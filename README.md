@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C322%20hrs%202%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C322%20hrs%2017%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -9,7 +9,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 64.2 kB Used in GitHub's Storage 
+> 📦 64.3 kB Used in GitHub's Storage 
  > 
 > 🏆 586 Contributions in the Year 2025
  > 
@@ -46,26 +46,27 @@ Sunday                   162 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Yerevan
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+C                        14 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Zed                      14 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+yuji                     13 mins             ████████████████████████░   96.74 % 
+Unknown Project          0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.26 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    14 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
 
 ```text
-Python                   17 repos            ███████████░░░░░░░░░░░░░░   42.50 % 
-C++                      4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
-JavaScript               4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
-C                        3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.50 % 
-Vim Script               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.50 % 
+Python                   17 repos            ███████████░░░░░░░░░░░░░░   43.59 % 
+C++                      4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.26 % 
+C                        3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
+JavaScript               3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
+Vim Script               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.56 % 
 ```
 
 
@@ -75,5 +76,5 @@ Vim Script               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/0xM4LL0C/0xM4LL0C/main/assets/bar_graph.png)
 
 
- Last Updated on 29/12/2025 01:57:21 UTC
+ Last Updated on 30/12/2025 01:49:30 UTC
 <!--END_SECTION:waka-->
