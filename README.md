@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C323%20hrs%204%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C323%20hrs%2020%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -11,7 +11,7 @@
 
 > 📦 64.3 kB Used in GitHub's Storage 
  > 
-> 🏆 586 Contributions in the Year 2025
+> 🏆 0 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -46,17 +46,17 @@ Sunday                   162 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Yerevan
 
 💬 Programming Languages: 
-C                        1 hr 1 min          █████████████████████████   100.00 % 
+C                        1 hr 17 mins        █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Zed                      1 hr 1 min          █████████████████████████   100.00 % 
+Zed                      1 hr 17 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-yuji                     54 mins             ██████████████████████░░░   89.51 % 
-Unknown Project          6 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.49 % 
+yuji                     1 hr 10 mins        ███████████████████████░░   91.20 % 
+Unknown Project          6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.80 % 
 
 💻 Operating System: 
-Linux                    1 hr 1 min          █████████████████████████   100.00 % 
+Linux                    1 hr 17 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -76,5 +76,5 @@ Vim Script               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/0xM4LL0C/0xM4LL0C/main/assets/bar_graph.png)
 
 
- Last Updated on 31/12/2025 01:50:15 UTC
+ Last Updated on 01/01/2026 01:59:56 UTC
 <!--END_SECTION:waka-->
