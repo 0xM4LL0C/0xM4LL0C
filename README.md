@@ -1,8 +1,6 @@
 ## Hi there 👋
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C323%20hrs%2020%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-98.94%20thousand%20lines%20of%20code-blue)
@@ -11,7 +9,7 @@
 
 > 📦 64.3 kB Used in GitHub's Storage 
  > 
-> 🏆 0 Contributions in the Year 2026
+> 🏆 1 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -19,46 +17,6 @@
  > 
 > 🔑 7 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                101 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.04 % 
-🌆 Daytime                578 commits         ██████████░░░░░░░░░░░░░░░   40.28 % 
-🌃 Evening                630 commits         ███████████░░░░░░░░░░░░░░   43.90 % 
-🌙 Night                  126 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.78 % 
-```
-📅 **I'm Most Productive on Friday** 
-
-```text
-Monday                   201 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.01 % 
-Tuesday                  236 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.45 % 
-Wednesday                197 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.73 % 
-Thursday                 144 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.03 % 
-Friday                   304 commits         █████░░░░░░░░░░░░░░░░░░░░   21.18 % 
-Saturday                 191 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.31 % 
-Sunday                   162 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.29 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Yerevan
-
-💬 Programming Languages: 
-C                        1 hr 17 mins        █████████████████████████   100.00 % 
-
-🔥 Editors: 
-Zed                      1 hr 17 mins        █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-yuji                     1 hr 10 mins        ███████████████████████░░   91.20 % 
-Unknown Project          6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.80 % 
-
-💻 Operating System: 
-Linux                    1 hr 17 mins        █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -76,5 +34,5 @@ Vim Script               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/0xM4LL0C/0xM4LL0C/main/assets/bar_graph.png)
 
 
- Last Updated on 02/01/2026 01:51:27 UTC
+ Last Updated on 03/01/2026 01:45:29 UTC
 <!--END_SECTION:waka-->
