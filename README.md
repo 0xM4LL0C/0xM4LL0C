@@ -1,11 +1,11 @@
 ## Hi there 👋
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C331%20hrs%2016%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C332%20hrs%2037%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-100.34%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-100.36%20thousand%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -19,48 +19,6 @@
  > 
 > 🔑 7 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                101 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.95 % 
-🌆 Daytime                579 commits         ██████████░░░░░░░░░░░░░░░   39.85 % 
-🌃 Evening                646 commits         ███████████░░░░░░░░░░░░░░   44.46 % 
-🌙 Night                  127 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.74 % 
-```
-📅 **I'm Most Productive on Friday** 
-
-```text
-Monday                   201 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.83 % 
-Tuesday                  238 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.38 % 
-Wednesday                202 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.90 % 
-Thursday                 146 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.05 % 
-Friday                   304 commits         █████░░░░░░░░░░░░░░░░░░░░   20.92 % 
-Saturday                 198 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.63 % 
-Sunday                   164 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.29 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Yerevan
-
-💬 Programming Languages: 
-C                        2 hrs 2 mins        ████████████████████████░   96.75 % 
-YAML                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.15 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
-
-🔥 Editors: 
-Zed                      2 hrs 6 mins        █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-yuji                     2 hrs 5 mins        █████████████████████████   98.84 % 
-Unknown Project          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.16 % 
-
-💻 Operating System: 
-Linux                    2 hrs 6 mins        █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -78,5 +36,5 @@ Vim Script               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/0xM4LL0C/0xM4LL0C/main/assets/bar_graph.png)
 
 
- Last Updated on 25/01/2026 02:02:52 UTC
+ Last Updated on 26/01/2026 02:01:58 UTC
 <!--END_SECTION:waka-->
