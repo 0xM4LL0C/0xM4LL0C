@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C335%20hrs%207%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C336%20hrs%2025%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -46,16 +46,23 @@ Sunday                   165 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Yerevan
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+HTML                     23 mins             ███████░░░░░░░░░░░░░░░░░░   29.73 % 
+Rust                     19 mins             ██████░░░░░░░░░░░░░░░░░░░   24.54 % 
+Vue.js                   15 mins             █████░░░░░░░░░░░░░░░░░░░░   19.81 % 
+TypeScript               4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.19 % 
+JSON                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.57 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Zed                      1 hr 17 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+0xm4ll0c.dev             50 mins             ████████████████░░░░░░░░░   65.12 % 
+daemonctl                21 mins             ███████░░░░░░░░░░░░░░░░░░   27.21 % 
+work                     4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.18 % 
+Unknown Project          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.50 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    1 hr 17 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -75,5 +82,5 @@ Vim Script               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/0xM4LL0C/0xM4LL0C/main/assets/bar_graph.png)
 
 
- Last Updated on 23/02/2026 02:24:20 UTC
+ Last Updated on 24/02/2026 02:13:54 UTC
 <!--END_SECTION:waka-->
