@@ -1,9 +1,9 @@
 ## Hi there 👋
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C346%20hrs%2047%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C347%20hrs%2048%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-122.37%20thousand%20lines%20of%20code-blue?style=flat)
 
@@ -46,18 +46,21 @@ Sunday                   213 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Yerevan
 
 💬 Programming Languages: 
-JSON                     4 mins              ██████████████░░░░░░░░░░░   56.85 % 
-CSS                      3 mins              ███████████░░░░░░░░░░░░░░   42.70 % 
-jsonc                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
+C                        52 mins             ███████████████████░░░░░░   75.72 % 
+JSON                     9 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.46 % 
+CSS                      3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.60 % 
+jsonc                    2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.98 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.04 % 
 
 🔥 Editors: 
-Zed                      7 mins              █████████████████████████   100.00 % 
+Zed                      1 hr 8 mins         █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Unknown Project          7 mins              █████████████████████████   100.00 % 
+yuji                     59 mins             ██████████████████████░░░   86.27 % 
+Unknown Project          9 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.73 % 
 
 💻 Operating System: 
-Linux                    7 mins              █████████████████████████   100.00 % 
+Linux                    1 hr 8 mins         █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -77,5 +80,5 @@ Vim Script               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/0xM4LL0C/0xM4LL0C/main/assets/bar_graph.png)
 
 
- Last Updated on 29/06/2026 04:03:25 UTC
+ Last Updated on 30/06/2026 03:46:21 UTC
 <!--END_SECTION:waka-->
