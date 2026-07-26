@@ -19,6 +19,45 @@
  > 
 > 🔑 7 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                121 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.61 % 
+🌆 Daytime                816 commits         █████████░░░░░░░░░░░░░░░░   37.83 % 
+🌃 Evening                1056 commits        ████████████░░░░░░░░░░░░░   48.96 % 
+🌙 Night                  164 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.60 % 
+```
+📅 **I'm Most Productive on Friday** 
+
+```text
+Monday                   328 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.21 % 
+Tuesday                  315 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.60 % 
+Wednesday                280 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.98 % 
+Thursday                 217 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.06 % 
+Friday                   452 commits         █████░░░░░░░░░░░░░░░░░░░░   20.96 % 
+Saturday                 328 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.21 % 
+Sunday                   237 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.99 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Yerevan
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -36,5 +75,5 @@ Vim Script               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/0xM4LL0C/0xM4LL0C/main/assets/bar_graph.png)
 
 
- Last Updated on 25/07/2026 02:43:55 UTC
+ Last Updated on 26/07/2026 02:52:10 UTC
 <!--END_SECTION:waka-->
