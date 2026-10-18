@@ -1,11 +1,9 @@
 ## Hi there 👋
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C338%20hrs%2030%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C338%20hrs%2033%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-3%20mins-blue?style=flat)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-136.47%20thousand%20lines%20of%20code-blue?style=flat)
 
@@ -13,7 +11,7 @@
 
 > 📦 64.9 kB Used in GitHub's Storage 
  > 
-> 🏆 40 Contributions in the Year 2026
+> 🏆 41 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -25,20 +23,20 @@
 
 ```text
 🌞 Morning                121 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.61 % 
-🌆 Daytime                816 commits         █████████░░░░░░░░░░░░░░░░   37.83 % 
-🌃 Evening                1056 commits        ████████████░░░░░░░░░░░░░   48.96 % 
+🌆 Daytime                816 commits         █████████░░░░░░░░░░░░░░░░   37.81 % 
+🌃 Evening                1057 commits        ████████████░░░░░░░░░░░░░   48.98 % 
 🌙 Night                  164 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.60 % 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   328 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.21 % 
+Monday                   328 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.20 % 
 Tuesday                  315 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.60 % 
-Wednesday                280 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.98 % 
+Wednesday                280 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.97 % 
 Thursday                 217 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.06 % 
-Friday                   452 commits         █████░░░░░░░░░░░░░░░░░░░░   20.96 % 
-Saturday                 328 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.21 % 
-Sunday                   237 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.99 % 
+Friday                   452 commits         █████░░░░░░░░░░░░░░░░░░░░   20.95 % 
+Saturday                 328 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.20 % 
+Sunday                   238 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.03 % 
 ```
 
 
@@ -48,16 +46,18 @@ Sunday                   237 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Yerevan
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   2 mins              ███████████████████████░░   93.33 % 
+TOML                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   05.33 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.33 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Zed                      2 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+work-order-time-edit     2 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    2 mins              █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -78,10 +78,6 @@ Vim Script               1 repo              █░░░░░░░░░░�
 
 
 
-**Timeline**
 
-![Lines of Code chart](https://raw.githubusercontent.com/0xM4LL0C/0xM4LL0C/main/assets/bar_graph.png)
-
-
- Last Updated on 20/08/2026 01:16:37 UTC
+ Last Updated on 18/10/2026 19:33:07 UTC
 <!--END_SECTION:waka-->
